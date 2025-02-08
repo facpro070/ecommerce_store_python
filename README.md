@@ -1,4 +1,4 @@
-"# django-ecommerce-project-amazon-clone"
+Django Ecommerce Project.
 
 
 ## Er Diagram of Project
